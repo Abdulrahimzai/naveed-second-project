@@ -9,7 +9,7 @@ public class FirstClass {
 		System.out.println("naveed second class");
 		System.out.println("naveed third class");
         System.out.println("test the class");
-         
+        System.out.println("test the second class");
 	}
 
 }
