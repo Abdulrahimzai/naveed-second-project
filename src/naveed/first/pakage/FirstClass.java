@@ -6,7 +6,9 @@ public class FirstClass {
 
 
 		System.out.println("naveed first class");
-
+		System.out.println("naveed second class");
+		System.out.println("naveed third class");
+         
 	}
 
 }
